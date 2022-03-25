@@ -36,7 +36,3 @@
 ## Resource
 
 * [Logo](resource/logo.md)
-
-***
-
-
