@@ -26,7 +26,8 @@
 
 ## Community
 
-* [Community](community/community.md)
+* [Telegram](https://t.me/+d2R18qo-GBAwNTRh)
+* [Discord](https://discord.gg/9MBrwtmA)
 
 ## FAQ
 
