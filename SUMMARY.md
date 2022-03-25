@@ -14,6 +14,7 @@
 * [质押规则](staking/zhi-ya-gui-ze.md)
 * [奖励](staking/jiang-li.md)
 * [质押教程](staking/zhi-ya-jiao-cheng.md)
+* [Nodes](http://18.163.101.69:8001)
 
 ***
 
@@ -37,4 +38,4 @@
 
 ***
 
-* [Nodes](http://18.163.101.69:8001)
+
